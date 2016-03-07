@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Android Library</string>
+    <string name="app_androidlib">Waiting for Joke from Java Library</string>
+</resources>
